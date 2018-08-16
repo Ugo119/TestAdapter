@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
         first.add("WestBrom");
         first.add("Leeds");
         first.add("Celtic");
-        first.add("Rangers");
+        first.add("Bolton");
         first.add("Huddersfield");
         first.add("Stoke");
         ArrayAdapter<String> itemsAdapter =
